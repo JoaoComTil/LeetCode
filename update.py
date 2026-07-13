@@ -3,6 +3,9 @@ from datetime import datetime
 
 import requests
 
+print("Session exists:", "LEETCODE_SESSION" in os.environ)
+print("CSRF exists:", "LEETCODE_CSRF_TOKEN" in os.environ)
+
 USERNAME = "Joao_G"
 
 URL = "https://leetcode.com/graphql"

@@ -1,8 +1,20 @@
-# LeetCode Stats
+# 👨‍💻 LeetCode Progress
 
-Last update: 2026-07-13 06:16:16.324583
+Automatically updated using GitHub Actions.
 
-- Total Solved: 42
-- Easy: 20
-- Medium: 18
-- Hard: 4
+## 📊 Statistics
+
+| Difficulty | Solved |
+|------------|-------:|
+| Total | **0** |
+| Easy | **0** |
+| Medium | **0** |
+| Hard | **0** |
+
+## 🌎 Ranking
+
+**5,000,001**
+
+---
+
+Last update: 2026-07-13 19:58 UTC

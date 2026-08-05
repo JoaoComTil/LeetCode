@@ -31,7 +31,7 @@ headers = {
     "Referer": "https://leetcode.com",
     "x-csrftoken": os.environ["LEETCODE_CSRF_TOKEN"],
     "Cookie": (
-        f"LEETCODE_SESSION={os.environ['LEETCODE_SESSION']}; "
+        f"LEETCODE_SESSION={os.environ['LEETCODE_SESSION']}: "
         f"csrftoken={os.environ['LEETCODE_CSRF_TOKEN']}"
     ),
 }
